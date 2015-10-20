@@ -1,12 +1,6 @@
-Given a binary tree, return all root-to-leaf paths.
 
-For example, given the following binary tree:
+Given a binary tree, determine if it is height-balanced.
 
-        1
-     /    \
-    2      3
-     \
-      5
-All root-to-leaf paths are:
+For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every 
 
-["1->2->5", "1->3"]
+node never differ by more than 1.
