@@ -17,9 +17,7 @@ Given the below binary tree and sum = 22,
 return
 
 [
-
     [5,4,11,2],
     [5,8,4, 5]
-    
 ]
 
