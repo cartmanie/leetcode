@@ -1,4 +1,5 @@
-This solution has nuance bug.
-But the result is right.
-I just keep it for some reason.
-You should always code review.
+# Be careful! This solution has nuance bug.
+
+# You should always code review && never count on watching the running result!
+
+I just keep it to remind me of it.
